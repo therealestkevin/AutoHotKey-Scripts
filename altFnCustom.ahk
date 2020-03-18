@@ -38,3 +38,8 @@ return
 
 !=:: Send {F12}
 return
+
+
+!Esc:: Send ~
+return
+
